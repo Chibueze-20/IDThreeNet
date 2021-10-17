@@ -1,0 +1,8 @@
+C:\Users\USER\documents\visual studio 2015\Projects\IDThreeNet\testIDthree\bin\Debug\testIDthree.exe.config
+C:\Users\USER\documents\visual studio 2015\Projects\IDThreeNet\testIDthree\bin\Debug\testIDthree.exe
+C:\Users\USER\documents\visual studio 2015\Projects\IDThreeNet\testIDthree\bin\Debug\testIDthree.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\IDThreeNet\testIDthree\bin\Debug\IDThreeNet.dll
+C:\Users\USER\documents\visual studio 2015\Projects\IDThreeNet\testIDthree\bin\Debug\IDThreeNet.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\IDThreeNet\testIDthree\obj\Debug\testIDthree.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2015\Projects\IDThreeNet\testIDthree\obj\Debug\testIDthree.exe
+C:\Users\USER\documents\visual studio 2015\Projects\IDThreeNet\testIDthree\obj\Debug\testIDthree.pdb

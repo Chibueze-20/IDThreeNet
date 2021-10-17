@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDThreeNet", "IDThreeNet\IDThreeNet.csproj", "{6073B24D-A134-4D2E-8953-B4DFC1E2C164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testIDthree", "testIDthree\testIDthree.csproj", "{61B2C86C-0215-4CCC-881D-9592E8B69D61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6073B24D-A134-4D2E-8953-B4DFC1E2C164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6073B24D-A134-4D2E-8953-B4DFC1E2C164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6073B24D-A134-4D2E-8953-B4DFC1E2C164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6073B24D-A134-4D2E-8953-B4DFC1E2C164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B2C86C-0215-4CCC-881D-9592E8B69D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B2C86C-0215-4CCC-881D-9592E8B69D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B2C86C-0215-4CCC-881D-9592E8B69D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B2C86C-0215-4CCC-881D-9592E8B69D61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

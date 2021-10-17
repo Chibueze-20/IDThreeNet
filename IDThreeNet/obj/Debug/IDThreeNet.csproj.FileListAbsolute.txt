@@ -1,0 +1,5 @@
+C:\Users\USER\documents\visual studio 2015\Projects\IDThreeNet\IDThreeNet\bin\Debug\IDThreeNet.dll
+C:\Users\USER\documents\visual studio 2015\Projects\IDThreeNet\IDThreeNet\bin\Debug\IDThreeNet.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\IDThreeNet\IDThreeNet\obj\Debug\IDThreeNet.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2015\Projects\IDThreeNet\IDThreeNet\obj\Debug\IDThreeNet.dll
+C:\Users\USER\documents\visual studio 2015\Projects\IDThreeNet\IDThreeNet\obj\Debug\IDThreeNet.pdb
